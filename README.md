@@ -10,7 +10,6 @@ This project analyzes traffic accident data to reveal patterns, trends, and rela
 The project uses the following datasets:
 - accident_info.csv – Contains detailed records of accidents, including date, area, weather & light conditions, and severity.
 - vehicle_info.csv – Contains information about vehicles involved in accidents, including vehicle type, age, propulsion.
-- Database Backup (VehicleAccident.bak) – A .bak file that allows restoring the complete database in SQL Server.
 
 
 ## Analytical Approach
